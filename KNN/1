@@ -1,0 +1,18 @@
+start trian parameter 	train:data.trn	test:data.test	kst:4
+index:101	result_label:3	rlabel:1
+index:117	result_label:2	rlabel:1
+index:142	result_label:1	rlabel:3
+index:280	result_label:3	rlabel:1
+index:287	result_label:2	rlabel:3
+index:319	result_label:1	rlabel:3
+index:365	result_label:3	rlabel:1
+index:403	result_label:1	rlabel:2
+index:459	result_label:2	rlabel:3
+index:468	result_label:1	rlabel:3
+index:470	result_label:2	rlabel:3
+index:563	result_label:3	rlabel:1
+index:578	result_label:1	rlabel:2
+index:591	result_label:3	rlabel:1
+index:623	result_label:2	rlabel:3
+index:662	result_label:2	rlabel:1
+errnum:16	errratio:0.023155
